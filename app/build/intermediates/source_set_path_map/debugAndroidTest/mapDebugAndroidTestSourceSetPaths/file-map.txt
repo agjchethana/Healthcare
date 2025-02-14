@@ -1,0 +1,5 @@
+com.example.healthcareproject.test.app-core-1.6.1-0 C:\Users\ASUS\.gradle\caches\8.10.2\transforms\76b9e4cd130a6b16bf7d3ea8d36a8595\transformed\core-1.6.1\res
+com.example.healthcareproject.test.app-androidTest-1 C:\Users\ASUS\AndroidStudioProjects\HealthcareProject\app\build\generated\res\resValues\androidTest\debug
+com.example.healthcareproject.test.app-mergeDebugAndroidTestResources-2 C:\Users\ASUS\AndroidStudioProjects\HealthcareProject\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.healthcareproject.test.app-mergeDebugAndroidTestResources-3 C:\Users\ASUS\AndroidStudioProjects\HealthcareProject\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.healthcareproject.test.app-debugAndroidTest-4 C:\Users\ASUS\AndroidStudioProjects\HealthcareProject\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
